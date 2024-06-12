@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "WavvePADO";
+  src: url('./fonts/WavvePADO-Regular.ttf');
+}
+@font-face {
+  font-family: "DDung";
+  src: url('./fonts/온글잎류뚱체.ttf');
+}
+
+@font-face {
+  font-family: "hanulim";
+  src: url('./fonts/한수원_한울림_R.ttf');
+}
+
+@tailwind base;
+@tailwind componenets;
+@tailwind utilities;
